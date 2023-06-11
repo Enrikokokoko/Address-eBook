@@ -1,0 +1,6 @@
+# env files
+.env
+.env.*
+
+# compiled output
+/node_modules
